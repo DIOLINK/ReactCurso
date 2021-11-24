@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Probando GifGrid.js Debe de mostrarse correctamente 1`] = `
+<Fragment>
+  <h3>
+    One Punch
+  </h3>
+  <p
+    className="animate__pulse"
+  >
+    Loading...
+  </p>
+  <div
+    className="card-grid"
+  />
+</Fragment>
+`;
